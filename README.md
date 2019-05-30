@@ -26,3 +26,4 @@ Training YOlOv3 is GPU extensive task. I don't have a GPU pc so I used google's 
 2. Results - https://drive.google.com/drive/folders/1rfAqpni8vORZtWAbQNNnxlTg5GC11V_D?usp=sharing
 3. Yolo Git - https://github.com/ManishSahu53/YoloV3
 4. Yolo-pre-trained Weights - wget https://pjreddie.com/media/files/darknet53.conv.74
+5. Colab - https://colab.research.google.com/drive/1wnnWwtzdP-FN6rlSr5LbjQ_UuU2dvcRQ
