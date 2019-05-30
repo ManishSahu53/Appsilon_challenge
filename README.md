@@ -29,8 +29,10 @@ Training YOlOv3 is GPU extensive task. I don't have a GPU pc so I used google's 
 5. Colab - https://colab.research.google.com/drive/1wnnWwtzdP-FN6rlSr5LbjQ_UuU2dvcRQ
 
 ## How to Run
-1. Clone  Yolo Git - https://github.com/ManishSahu53/YoloV3
+1. Clone this repo and Yolo Git - https://github.com/ManishSahu53/YoloV3
 2. Download weights from https://drive.google.com/file/d/1YKvLkQjYgF7rlaejk07DhBtQZE9rhpUL/view?usp=sharing
-3. Now Run 
+3. Paste [car_classes.txt](https://github.com/ManishSahu53/Appsilon_challenge/blob/master/car_classes.txt) present in this repo and paste it in model_data folder present in [yolo repo](https://github.com/ManishSahu53/YoloV3)
+
 ```
-python 
+python test.py --image path_folder_image --model model.h5 --classes model_data/car_classes.txt --output path_folder_output
+```
