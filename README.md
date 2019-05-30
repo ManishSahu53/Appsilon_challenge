@@ -34,5 +34,5 @@ Training YOlOv3 is GPU extensive task. I don't have a GPU pc so I used google's 
 3. Paste [car_classes.txt](https://github.com/ManishSahu53/Appsilon_challenge/blob/master/car_classes.txt) present in this repo and paste it in model_data folder present in [yolo repo](https://github.com/ManishSahu53/YoloV3)
 
 ```
-python test.py --image path_folder_image --model model.h5 --classes model_data/car_classes.txt --output path_folder_output
+python test.py --image path_folder_image --model model_data/Cars.h5 --classes model_data/car_classes.txt --output path_folder_output
 ```
