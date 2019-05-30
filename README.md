@@ -20,3 +20,9 @@ I used 6 six categories with ~1800 labeled bounding boxes datasets.
 
 Training YOlOv3 is GPU extensive task. I don't have a GPU pc so I used google's Colab to train my network. It comes with 12 GB of GPU with latest Nvidia GPU.
 
+
+## Trained model
+1. Weights - https://drive.google.com/file/d/1YKvLkQjYgF7rlaejk07DhBtQZE9rhpUL/view?usp=sharing
+2. Results - https://drive.google.com/drive/folders/1rfAqpni8vORZtWAbQNNnxlTg5GC11V_D?usp=sharing
+3. Yolo Git - https://github.com/ManishSahu53/YoloV3
+4. Yolo-pre-trained Weights - wget https://pjreddie.com/media/files/darknet53.conv.74
