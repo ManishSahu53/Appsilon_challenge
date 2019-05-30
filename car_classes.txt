@@ -1,0 +1,6 @@
+Convertible
+Hatchback
+Sedan
+StationWagon
+SUV
+VanPickup
